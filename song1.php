@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="csstyle">
     <title>Two Less Lonely People in the World - KZ Tandingan</title>
 </head>
-<body>
+<body> 
     <h1>Song - Two Less Lonely People in the World - KZ Tandingan</h1>
     
     <h2>Lyrics:</h2>
